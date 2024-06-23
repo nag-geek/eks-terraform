@@ -72,7 +72,6 @@ Commands:
 kubectl apply -f kubernetes/frontend-deployment.yaml
 kubectl apply -f kubernetes/backend-deployment.yaml
 kubectl apply -f kubernetes/frontend-service.yaml
-```
 Explanation: 
 - kubectl apply -f kubernetes/frontend-deployment.yaml: Deploys the frontend application.
 - `kubectl apply -f kubernetes/backend-deployment.yaml: Deploys the backend application.
